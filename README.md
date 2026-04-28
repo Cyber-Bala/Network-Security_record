@@ -1,4 +1,3 @@
-# _record
 <h2 align="center">Network Security Record</h1>
 
 <p align="center">
